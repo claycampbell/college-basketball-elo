@@ -101,11 +101,11 @@ def predict_next_day(elo_state, forecast_date, auto):
 		is_neutral = True if game[0] == 1 else False
 		winner, prob, home_spread = predict_game(elo_state, game[3], game[1], pick_mode = 1, neutral = is_neutral)
 		if game[1] == winner:
-			predictions.append([game[0], game[1], prob, -home_spread, game[3], "{0:.0%}".format(1 - (float(prob[:-1])/100)), home_spread])
+			predictions.append([game[0], game[1], prob, -home_spread, game[3], "{0:.0%}".format(1 - (float(prob[:-1])/100)), home_spread, 0, home_spread])
 		else:
-			predictions.append([game[0], game[1], "{0:.0%}".format(1 - (float(prob[:-1])/100)), -home_spread, game[3], prob, home_spread])
+			predictions.append([game[0], game[1], "{0:.0%}".format(1 - (float(prob[:-1])/100)), -home_spread, game[3], prob, home_spread, 0, home_spread])
 	predictions, timestamp = spread_enricher.add_spreads_to_todays_preds(predictions, forecast_date)
-	output = pd.DataFrame(predictions, columns = ['Neutral'	,'Away','Away Win Prob.','Away Pred. Spread','Away Delta','Live Away Spread','Home','Home Win Prob.''Home Pred. Spread',	'Home Delta','Live Home Spread'])
+	output = pd.DataFrame(predictions, columns = ['Neutral', 'Away', 'Away Win Prob.', 'Away Pred. Spread', 'Live Away Spread', 'Home', 'Home Win Prob.', 'Home Pred. Spread','Home Delta','Live Home Spread'])
 	spreads_string = ''
 	if timestamp != 'N/A':
 		spreads_string = ' with Spreads as of '
