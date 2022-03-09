@@ -58,10 +58,10 @@ def add_spreads_to_todays_preds(predictions, forecast_date):
 		spread = (spreads_map[best_match[0]][1]).replace('+', '')
 		score = best_match[1]
 		if score >= 80:
-			new_data.append(row[:4] + [spread] + row[4:])
+			new_data.append(row[:5] + [spread] + row[5:])
 		else:
 			# print(teamindex, best_match)
-			new_data.append(row[:4] + ['NL'] + row[4:])
+			new_data.append(row[:5] + ['NL'] + row[5:])
 
 	return new_data, timestamp
 
