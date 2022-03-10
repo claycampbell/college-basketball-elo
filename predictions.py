@@ -100,10 +100,18 @@ def predict_next_day(elo_state, forecast_date, auto):
 	for game in games:
 		is_neutral = True if game[0] == 1 else False
 		winner, prob, home_spread = predict_game(elo_state, game[3], game[1], pick_mode = 1, neutral = is_neutral)
+		whole_game_line = 'D'
+		prediction_spread = abs(home_spread)
+		if prediction_spread >= 3 and prediction_spread < 5.5:
+			whole_game_line = 'C'
+		elif prediction_spread >= 5.5 and prediction_spread < 10:
+			whole_game_line = 'B'
+		elif prediction_spread > 10:
+			whole_game_line = 'A'
 		if game[1] == winner:
-			predictions.append([game[0], game[1], prob, -home_spread, 'NL', game[3], "{0:.0%}".format(1 - (float(prob[:-1])/100)), home_spread, 'NL', 'NL'])
+			predictions.append([game[0], game[1], prob, -home_spread, 'NL', game[3], "{0:.0%}".format(1 - (float(prob[:-1])/100)), home_spread, 'NL', 'NL', whole_game_line])
 		else:
-			predictions.append([game[0], game[1], "{0:.0%}".format(1 - (float(prob[:-1])/100)), -home_spread, 'NL', game[3], prob, home_spread, 'NL', 'NL'])
+			predictions.append([game[0], game[1], "{0:.0%}".format(1 - (float(prob[:-1])/100)), -home_spread, 'NL', game[3], prob, home_spread, 'NL', 'NL', whole_game_line])
 	predictions, timestamp = spread_enricher.add_spreads_to_todays_preds(predictions, forecast_date)
 	# live home spread
 	for row in predictions:
@@ -115,8 +123,8 @@ def predict_next_day(elo_state, forecast_date, auto):
 			row[4] = delta # away delta
 			row[9] = delta # home delta
 			row[10] = home_live_spread # live home spread
-
-	output = pd.DataFrame(predictions, columns = ['Neutral', 'Away', 'Away Win Prob.', 'Away Pred. Spread', 'Away Delta', 'Live Away Spread', 'Home', 'Home Win Prob.', 'Home Pred. Spread','Home Delta','Live Home Spread'])
+	
+	output = pd.DataFrame(predictions, columns = ['Neutral', 'Away', 'Away Win Prob.', 'Away Pred. Spread', 'Away Delta', 'Live Away Spread', 'Home', 'Home Win Prob.', 'Home Pred. Spread','Home Delta','Live Home Spread','WGL'])
 	spreads_string = ''
 	if timestamp != 'N/A':
 		spreads_string = ' with Spreads as of '
