@@ -1,0 +1,56 @@
+Neutral,Away,Away Win Prob.,Away Pred. Spread,Away Delta,Live Away Spread,Home,Home Win Prob.,Home Pred. Spread,Home Delta,Live Home Spread,WGL
+1,Houston,59%,-2.6,42%,-4.5,Memphis,41%,2.6,42%,4.5,D
+1,Tennessee,61%,-3.1,NL,NL,South Carolina,39%,3.1,NL,NL,C
+1,Illinois,40%,2.7,64%,7.5,Purdue,60%,-2.7,64%,-7.5,D
+1,Ohio State,34%,4.4,NL,NL,Iowa,66%,-4.4,NL,NL,C
+1,Louisville,20%,9.5,NL,NL,Virginia Tech,80%,-9.5,NL,NL,B
+1,Marquette,53%,-0.8,NL,NL,UConn,47%,0.8,NL,NL,D
+1,Creighton,56%,-1.7,NL,NL,Villanova,44%,1.7,NL,NL,D
+1,Michigan,36%,3.8,16%,4.5,Indiana,64%,-3.8,16%,-4.5,C
+1,Washington State,29%,6.1,NL,NL,UCLA,71%,-6.1,NL,NL,B
+1,Maryland,77%,-8.3,337%,3.5,Penn State,23%,8.3,337%,-3.5,B
+1,UCSB,54%,-1.0,NL,NL,Hawaii,46%,1.0,NL,NL,D
+1,San Francisco,44%,1.5,NL,NL,Santa Clara,56%,-1.5,NL,NL,D
+1,William & Mary,45%,1.4,90%,14.5,Hofstra,55%,-1.4,90%,-14.5,D
+1,Old Dominion,31%,5.3,NL,NL,James Madison,69%,-5.3,NL,NL,C
+1,Chattanooga,49%,0.3,107%,-4.5,Wofford,51%,-0.3,107%,4.5,D
+1,Campbell,35%,4.1,9%,4.5,UNC Asheville,65%,-4.1,9%,-4.5,C
+1,Oral Roberts,73%,-6.6,NL,NL,South Dakota,27%,6.6,NL,NL,B
+1,UMBC,13%,12.8,NL,NL,Vermont,87%,-12.8,NL,NL,A
+1,Drake,78%,-8.5,NL,NL,Bradley,22%,8.5,NL,NL,B
+1,East Carolina,66%,-4.4,138%,11.5,UCF,34%,4.4,138%,-11.5,C
+1,SMU,49%,0.2,NL,NL,Cincinnati,51%,-0.2,NL,NL,D
+1,Army,16%,11.1,NL,NL,Colgate,84%,-11.1,NL,NL,A
+1,Nebraska,28%,6.4,44%,11.5,Iowa,72%,-6.4,44%,-11.5,B
+1,Drexel,75%,-7.6,607%,1.5,UNC Wilmington,25%,7.6,607%,-1.5,B
+1,Northern Colorado,44%,1.7,79%,8,Northern Arizona,56%,-1.7,79%,-8.0,D
+1,Temple,34%,4.6,8%,5,Tulane,66%,-4.6,8%,-5.0,C
+1,Maine,45%,1.4,NL,NL,Albany (NY),55%,-1.4,NL,NL,D
+1,Liberty,73%,-6.6,10%,-6,Kennesaw State,27%,6.6,10%,6.0,B
+1,Southern Miss,46%,1.2,NL,NL,Texas State,54%,-1.2,NL,NL,D
+1,South Florida,55%,-1.4,119%,7.5,Wichita State,45%,1.4,119%,-7.5,D
+1,Eastern Kentucky,81%,-9.8,NL,NL,Austin Peay,19%,9.8,NL,NL,B
+1,Western Carolina,26%,6.9,42%,12,Furman,74%,-6.9,42%,-12.0,B
+1,American,59%,-2.6,204%,2.5,Lafayette,41%,2.6,204%,-2.5,D
+1,Kennesaw State,27%,6.6,210%,-6,Liberty,73%,-6.6,210%,6.0,B
+1,Portland State,19%,9.9,NL,NL,Montana State,81%,-9.9,NL,NL,B
+1,Omaha,25%,7.3,NL,NL,North Dakota,75%,-7.3,NL,NL,B
+1,Stetson,23%,8.3,NL,NL,Florida Gulf Coast,77%,-8.3,NL,NL,B
+1,Fresno State,44%,1.6,NL,NL,Nevada,56%,-1.6,NL,NL,D
+1,Stony Brook,28%,6.4,67%,19.5,College of Charleston,72%,-6.4,67%,-19.5,B
+1,High Point,36%,3.8,NL,NL,Gardner-Webb,64%,-3.8,NL,NL,C
+1,South Alabama,29%,5.9,293%,1.5,James Madison,71%,-5.9,293%,-1.5,B
+1,McNeese State,47%,0.9,NL,NL,Texas A&M-Commerce,53%,-0.9,NL,NL,D
+1,Chattanooga,49%,0.3,107%,-4.5,Wofford,51%,-0.3,107%,4.5,D
+1,San Jose State,69%,-5.5,NL,NL,Air Force,31%,5.5,NL,NL,B
+1,Northern Arizona,33%,4.9,35%,7.5,Eastern Washington,67%,-4.9,35%,-7.5,C
+1,North Alabama,53%,-0.8,NL,NL,Lipscomb,47%,0.8,NL,NL,D
+1,Wisconsin,80%,-9.2,84%,-5,Minnesota,20%,9.2,84%,5.0,B
+1,Northwestern,57%,-2.0,NL,NL,Rutgers,43%,2.0,NL,NL,D
+1,St. Thomas,60%,-2.6,NL,NL,Western Illinois,40%,2.6,NL,NL,D
+1,New Orleans,67%,-4.9,23%,-4,Houston Christian,33%,4.9,23%,4.0,C
+1,Texas State,55%,-1.3,120%,6.5,Louisiana,45%,1.3,120%,-6.5,D
+1,Delaware,32%,5.0,17%,6,Towson,68%,-5.0,17%,-6.0,C
+1,South Dakota,35%,4.1,25%,5.5,North Dakota State,65%,-4.1,25%,-5.5,C
+1,Utah State,37%,3.5,NL,NL,Boise State,63%,-3.5,NL,NL,C
+1,Northern Colorado,25%,7.4,7%,8,Montana State,75%,-7.4,7%,-8.0,B
