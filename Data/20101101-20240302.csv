@@ -86446,3 +86446,505 @@
 1,Texas,81,Texas Tech,69,20240227,NL
 1,UNLV,75,Wyoming,69,20240227,NL
 1,Nevada,77,Colorado State,74,20240227,NL
+1,Michigan,51,Ohio State,67,20240228,NL
+1,Texas,70,Oklahoma,71,20240228,NL
+1,Auburn,84,Tennessee,92,20240228,NL
+1,Providence,69,Marquette,91,20240228,NL
+1,Iowa,108,Minnesota,60,20240228,NL
+1,Arizona,85,Arizona State,67,20240228,NL
+1,Oklahoma,45,Iowa State,58,20240228,NL
+1,Villanova,46,UConn,67,20240228,NL
+1,Louisville,59,Duke,84,20240228,NL
+1,Seton Hall,64,Creighton,85,20240228,NL
+1,Minnesota,97,Illinois,105,20240228,NL
+1,Alabama,103,Ole Miss,88,20240228,NL
+1,Iowa State,82,Kansas State,76,20240228,NL
+1,Portland,40,Gonzaga,90,20240228,NL
+1,South Carolina,70,Texas A&M,68,20240228,NL
+1,Boise State,57,UNLV,63,20240228,NL
+1,Missouri,74,Florida,83,20240228,NL
+1,American,73,Army,51,20240228,NL
+1,Akron,41,Ball State,75,20240228,NL
+1,Buffalo,70,Bowling Green State,55,20240228,NL
+1,Kansas,65,UCF,53,20240228,NL
+1,Miami (OH),73,Central Michigan,76,20240228,NL
+1,Radford,57,Charleston Southern,58,20240228,NL
+1,James Madison,69,Coastal Carolina,60,20240228,NL
+1,La Salle,63,Duquesne,75,20240228,NL
+1,Kent State,76,Eastern Michigan,64,20240228,NL
+1,Tulane,67,Florida Atlantic,80,20240228,NL
+1,Gardner-Webb,57,Longwood,67,20240228,NL
+1,St. Bonaventure,45,UMass,58,20240228,NL
+1,Penn State,93,Purdue,88,20240228,NL
+1,VCU,69,Rhode Island,59,20240228,NL
+1,Duquesne,74,Richmond,90,20240228,NL
+1,Presbyterian,72,USC Upstate,74,20240228,NL
+1,Tulsa,76,Temple,67,20240228,NL
+1,Rhode Island,67,VCU,88,20240228,NL
+1,Wichita State,74,UAB,66,20240228,NL
+1,Eastern Kentucky,79,Austin Peay,83,20240228,NL
+1,Southern Illinois,67,Bradley,86,20240228,NL
+1,Indiana State,85,Evansville,67,20240228,NL
+1,Drake,107,UIC,105,20240228,NL
+1,Missouri State,74,Illinois State,75,20240228,NL
+1,UTSA,53,Memphis,60,20240228,NL
+1,Belmont,83,Murray State,61,20240228,NL
+1,Richmond,80,Saint Louis,64,20240228,NL
+1,Southern Miss,70,South Alabama,73,20240228,NL
+1,SMU,88,Wichita State,84,20240228,NL
+1,Utah State,46,Air Force,85,20240228,NL
+1,Houston,54,BYU,64,20240228,NL
+1,San Diego State,63,New Mexico,66,20240228,NL
+1,Wyoming,88,San Jose State,73,20240228,NL
+1,Old Dominion,64,Appalachian State,89,20240228,NL
+1,Lehigh,78,Boston University,89,20240228,NL
+1,Loyola (MD),56,Bucknell,74,20240228,NL
+1,Saint Louis,78,La Salle,57,20240228,NL
+1,Navy,58,Lafayette,49,20240228,NL
+1,Boston University,64,Lehigh,62,20240228,NL
+1,USC Upstate,43,Presbyterian,47,20240228,NL
+1,High Point,65,Winthrop,64,20240228,NL
+1,Detroit Mercy,55,Youngstown State,69,20240228,NL
+1,Mercer,75,Chattanooga,84,20240228,NL
+1,ETSU,81,The Citadel,63,20240228,NL
+1,Green Bay,69,Cleveland State,61,20240228,NL
+1,Arkansas State,71,Coastal Carolina,60,20240228,NL
+1,Holy Cross,79,Colgate,86,20240228,NL
+1,George Washington,45,Davidson,40,20240228,NL
+1,Dayton,53,George Mason,78,20240228,NL
+1,Marshall,73,Georgia Southern,87,20240228,NL
+1,James Madison,84,Georgia State,78,20240228,NL
+1,Winthrop,96,High Point,100,20240228,NL
+1,Colgate,77,Holy Cross,58,20240228,NL
+1,Green Bay,70,Purdue Fort Wayne,61,20240228,NL
+1,Milwaukee,75,IUPUI,70,20240228,NL
+1,Stetson,86,Jacksonville,73,20240228,NL
+1,Western Kentucky,41,Louisiana Tech,45,20240228,NL
+1,Bucknell,68,Loyola (MD),46,20240228,NL
+1,Northwestern,68,Maryland,61,20240228,NL
+1,Lafayette,58,Navy,62,20240228,NL
+1,VMI,58,UNC Greensboro,100,20240228,NL
+1,Florida Gulf Coast,79,North Florida,60,20240228,NL
+1,Toledo,74,Northern Illinois,61,20240228,NL
+1,Western Michigan,64,Ohio,67,20240228,NL
+1,Seton Hall,71,Providence,65,20240228,NL
+1,Charleston Southern,68,Radford,81,20240228,NL
+1,Northern Kentucky,70,Robert Morris,60,20240228,NL
+1,Fordham,62,St. Joseph's,57,20240228,NL
+1,Texas Tech,52,TCU,73,20240228,NL
+1,Appalachian State,69,Troy,102,20240228,NL
+1,North Texas,80,Tulane,76,20240228,NL
+1,Furman,77,Western Carolina,85,20240228,NL
+1,Samford,69,Wofford,91,20240228,NL
+1,Purdue Fort Wayne,79,Wright State,77,20240228,NL
+1,DePaul,58,Xavier,91,20240228,NL
+1,St. John's (NY),82,Butler,59,20240228,NL
+1,California,78,Colorado,88,20240228,NL
+1,Nevada,51,Colorado State,54,20240228,NL
+1,Butler,73,DePaul,70,20240228,NL
+1,Bellarmine,74,Lipscomb,90,20240228,NL
+1,Troy,87,Louisiana,73,20240228,NL
+1,UCF,77,Oklahoma State,71,20240228,NL
+1,Temple,65,Rice,43,20240228,NL
+1,Tulsa,73,UTSA,89,20240228,NL
+1,Southern Miss,67,Texas State,59,20240228,NL
+1,Louisiana Tech,90,Western Kentucky,84,20240228,NL
+1,Virginia,72,Boston College,68,20240228,NL
+1,Oregon State,71,Oregon,78,20240228,NL
+1,South Carolina,98,Arkansas,61,20240229,NL
+1,Stanford,67,Oregon State,63,20240229,NL
+1,Virginia Tech,58,Notre Dame,71,20240229,NL
+1,USC,95,Arizona,93,20240229,NL
+1,UCLA,70,Arizona State,41,20240229,NL
+1,LSU,80,Georgia,54,20240229,NL
+1,Syracuse,71,NC State,75,20240229,NL
+1,Washington,62,Colorado,68,20240229,NL
+1,Saint Mary's,83,Pepperdine,57,20240229,NL
+1,Washington State,67,Utah,82,20240229,NL
+1,USC,72,Washington State,75,20240229,NL
+1,Florida State,55,Louisville,70,20240229,NL
+1,Gonzaga,86,San Francisco,68,20240229,NL
+1,New Hampshire,67,Albany (NY),91,20240229,NL
+1,William & Mary,71,Elon,76,20240229,NL
+1,Quinnipiac,46,Fairfield,64,20240229,NL
+1,Chattanooga,60,Furman,53,20240229,NL
+1,FDU,71,Merrimack,63,20240229,NL
+1,Illinois,70,Michigan State,87,20240229,NL
+1,UMBC,79,NJIT,60,20240229,NL
+1,UIC,63,Drake,84,20240229,NL
+1,Abilene Christian,77,Southern Utah,68,20240229,NL
+1,Cal Poly,75,UCSB,83,20240229,NL
+1,Montana,79,Eastern Washington,89,20240229,NL
+1,San Diego,62,Loyola Marymount,96,20240229,NL
+1,Morgan State,53,Delaware State,57,20240229,NL
+1,Southeast Missouri State,70,Morehead State,63,20240229,NL
+1,Tennessee State,46,Little Rock,68,20240229,NL
+1,Lipscomb,74,Bellarmine,80,20240229,NL
+1,Maine,74,Binghamton,76,20240229,NL
+1,UMass-Lowell,51,Bryant,60,20240229,NL
+1,Iona,71,Canisius,58,20240229,NL
+1,Binghamton,51,Maine,57,20240229,NL
+1,Wisconsin,63,Maryland,79,20240229,NL
+1,Pitt,44,Miami (FL),62,20240229,NL
+1,Albany (NY),45,New Hampshire,40,20240229,NL
+1,Rider,56,Niagara,75,20240229,NL
+1,Lindenwood,38,Southern Indiana,75,20240229,NL
+1,Tennessee Tech,37,UT-Martin,67,20240229,NL
+1,Clemson,68,Wake Forest,64,20240229,NL
+1,Eastern Illinois,54,Western Illinois,64,20240229,NL
+1,Southern Utah,42,Abilene Christian,75,20240229,NL
+1,Florida,73,Alabama,76,20240229,NL
+1,UNC,74,Boston College,78,20240229,NL
+1,LIU,64,Central Connecticut,78,20240229,NL
+1,Campbell,73,College of Charleston,96,20240229,NL
+1,Northeastern,67,Delaware,73,20240229,NL
+1,IUPUI,59,Detroit Mercy,64,20240229,NL
+1,Stony Brook,86,Drexel,90,20240229,NL
+1,Virginia,54,Duke,73,20240229,NL
+1,Memphis,82,East Carolina,58,20240229,NL
+1,Austin Peay,63,Eastern Kentucky,55,20240229,NL
+1,Merrimack,74,FDU,55,20240229,NL
+1,North Florida,33,Florida Gulf Coast,75,20240229,NL
+1,Longwood,69,Gardner-Webb,72,20240229,NL
+1,Monmouth,56,Hampton,64,20240229,NL
+1,Southeastern Louisiana,51,Incarnate Word,53,20240229,NL
+1,UTEP,72,Jacksonville State,65,20240229,NL
+1,Ole Miss,75,Kentucky,45,20240229,NL
+1,Wagner,56,Le Moyne,70,20240229,NL
+1,Central Connecticut,65,LIU,56,20240229,NL
+1,NJIT,77,UMBC,76,20240229,NL
+1,Bryant,67,UMass-Lowell,89,20240229,NL
+1,Bradley,44,Missouri State,70,20240229,NL
+1,Southeast Missouri State,50,Morehead State,72,20240229,NL
+1,Manhattan,43,Mount St. Mary's,58,20240229,NL
+1,Towson,84,North Carolina A&T,58,20240229,NL
+1,Hofstra,69,UNC Wilmington,58,20240229,NL
+1,Valparaiso,59,Northern Iowa,78,20240229,NL
+1,Nicholls State,47,Northwestern State,55,20240229,NL
+1,Wright State,82,Oakland,84,20240229,NL
+1,Nebraska,69,Ohio State,78,20240229,NL
+1,Stonehill,49,Sacred Heart,78,20240229,NL
+1,Marist,62,Siena,73,20240229,NL
+1,Illinois State,75,Southern Illinois,66,20240229,NL
+1,California Baptist,100,Stephen F. Austin,96,20240229,NL
+1,Jacksonville,51,Stetson,55,20240229,NL
+1,Sacred Heart,79,Stonehill,51,20240229,NL
+1,Texas A&M,66,Tennessee,75,20240229,NL
+1,Lamar,74,Texas A&M-Commerce,58,20240229,NL
+1,Seattle,81,UT Arlington,77,20240229,NL
+1,Grand Canyon,66,Texas-Rio Grande Valley,40,20240229,NL
+1,Le Moyne,55,Wagner,46,20240229,NL
+1,ETSU,64,Wofford,75,20240229,NL
+1,Tennessee State,60,Little Rock,85,20240229,NL
+1,Mississippi State,60,Auburn,77,20240229,NL
+1,Houston Christian,64,McNeese State,72,20240229,NL
+1,Denver,74,Kansas City,60,20240229,NL
+1,Vanderbilt,68,Missouri,61,20240229,NL
+1,St. Thomas,62,Omaha,79,20240229,NL
+1,Liberty,60,New Mexico State,56,20240229,NL
+1,South Dakota State,72,North Dakota,62,20240229,NL
+1,South Dakota,54,North Dakota State,63,20240229,NL
+1,Idaho State,74,Northern Arizona,89,20240229,NL
+1,Weber State,64,Northern Colorado,72,20240229,NL
+1,Michigan,52,Rutgers,82,20240229,NL
+1,North Dakota State,68,South Dakota,88,20240229,NL
+1,North Dakota,47,South Dakota State,103,20240229,NL
+1,Lindenwood,67,Southern Indiana,63,20240229,NL
+1,Omaha,61,St. Thomas,88,20240229,NL
+1,Utah Tech,60,Tarleton State,76,20240229,NL
+1,Tennessee Tech,69,UT-Martin,80,20240229,NL
+1,New Orleans,54,Texas A&M-Corpus Christi,81,20240229,NL
+1,Stanford,68,Utah,90,20240229,NL
+1,Eastern Illinois,66,Western Illinois,70,20240229,NL
+1,UCSB,64,Cal Poly,73,20240229,NL
+1,Hawaii,63,UC-Davis,75,20240229,NL
+1,Cal State Northridge,54,UC-Irvine,64,20240229,NL
+1,Kansas City,84,Denver,69,20240229,NL
+1,Tarleton State,85,Utah Tech,74,20240229,NL
+1,Texas-Rio Grande Valley,43,Grand Canyon,72,20240229,NL
+1,Montana State,62,Idaho,48,20240229,NL
+1,Northern Arizona,92,Idaho State,88,20240229,NL
+1,New Mexico State,58,Liberty,83,20240229,NL
+1,Idaho,58,Montana State,53,20240229,NL
+1,Eastern Washington,56,Montana,55,20240229,NL
+1,San Diego,62,Pacific,82,20240229,NL
+1,Santa Clara,75,Portland,80,20240229,NL
+1,San Francisco,78,Saint Mary's,74,20240229,NL
+1,Loyola Marymount,45,Santa Clara,86,20240229,NL
+1,Jacksonville State,48,UTEP,70,20240229,NL
+1,Northern Colorado,81,Weber State,85,20240229,NL
+1,UC-San Diego,57,Cal State Bakersfield,70,20240229,NL
+1,Long Beach State,74,Cal State Fullerton,59,20240229,NL
+1,UC-Irvine,89,Cal State Northridge,64,20240229,NL
+1,Stephen F. Austin,62,California Baptist,60,20240229,NL
+1,Cal State Bakersfield,43,UC-San Diego,50,20240229,NL
+1,Cal State Fullerton,76,Long Beach State,71,20240229,NL
+1,California,62,Oregon,59,20240229,NL
+1,UT Arlington,82,Seattle,62,20240229,NL
+1,UCLA,77,Washington,94,20240229,NL
+1,UC-Davis,57,Hawaii,63,20240301,NL
+1,Houston,87,Oklahoma,85,20240302,NL
+1,Michigan State,74,Purdue,80,20240302,NL
+1,BYU,46,Texas,71,20240302,NL
+1,Tennessee,81,Alabama,74,20240302,NL
+1,Stanford,76,Oregon,56,20240302,NL
+1,Marquette,75,Creighton,89,20240302,NL
+1,Oregon,83,Arizona,103,20240302,NL
+1,Kansas,74,Baylor,82,20240302,NL
+1,USC,70,Arizona State,55,20240302,NL
+1,Iowa State,60,UCF,52,20240302,NL
+1,UCLA,61,Arizona,41,20240302,NL
+1,NC State,70,UNC,79,20240302,NL
+1,Virginia,48,Duke,73,20240302,NL
+1,UConn,65,Providence,42,20240302,NL
+1,California,58,Oregon State,79,20240302,NL
+1,Mississippi State,63,Auburn,78,20240302,NL
+1,Illinois,91,Wisconsin,83,20240302,NL
+1,Washington State,72,Colorado,63,20240302,NL
+1,Kansas State,73,Texas Tech,49,20240302,NL
+1,Arkansas,102,Kentucky,111,20240302,NL
+1,Gonzaga,70,Saint Mary's,57,20240302,NL
+1,Washington,62,Utah,47,20240302,NL
+1,Florida,76,South Carolina,82,20240302,NL
+1,UCLA,65,Washington State,77,20240302,NL
+1,Oklahoma,74,Kansas,83,20240302,NL
+1,San Diego State,41,UNLV,100,20240302,NL
+1,TCU,49,West Virginia,57,20240302,NL
+1,South Florida,76,Charlotte,61,20240302,NL
+1,Northern Illinois,73,Akron,80,20240302,NL
+1,Northern Illinois,54,Akron,69,20240302,NL
+1,Maine,74,Albany (NY),71,20240302,NL
+1,Eastern Michigan,47,Ball State,75,20240302,NL
+1,Holy Cross,63,Boston University,66,20240302,NL
+1,Miami (OH),47,Bowling Green State,66,20240302,NL
+1,Dartmouth,67,Brown,89,20240302,NL
+1,NJIT,82,Bryant,101,20240302,NL
+1,North Carolina A&T,62,Campbell,64,20240302,NL
+1,St. Joseph's,77,Duquesne,73,20240302,NL
+1,Monmouth,85,Elon,70,20240302,NL
+1,Tulane,73,Florida Atlantic,79,20240302,NL
+1,La Salle,93,Fordham,83,20240302,NL
+1,Duquesne,59,George Mason,51,20240302,NL
+1,Loyola (IL),43,George Washington,50,20240302,NL
+1,Colgate,47,Lehigh,55,20240302,NL
+1,Fairfield,77,Manhattan,53,20240302,NL
+1,Vermont,55,UMass-Lowell,51,20240302,NL
+1,Samford,69,Mercer,76,20240302,NL
+1,IUPUI,92,Oakland,71,20240302,NL
+1,Cornell,77,Princeton,79,20240302,NL
+1,Saint Louis,94,Rhode Island,91,20240302,NL
+1,VCU,76,Richmond,79,20240302,NL
+1,Fordham,69,St. Joseph's,82,20240302,NL
+1,Tulsa,72,Temple,67,20240302,NL
+1,George Mason,56,VCU,61,20240302,NL
+1,Wofford,74,VMI,62,20240302,NL
+1,Gardner-Webb,65,Winthrop,64,20240302,NL
+1,Mississippi Valley State,69,Arkansas-Pine Bluff,78,20240302,NL
+1,Valparaiso,62,Drake,82,20240302,NL
+1,Florida A&M,54,Grambling,65,20240302,NL
+1,UCF,67,Houston,68,20240302,NL
+1,New Mexico State,66,Jacksonville State,64,20240302,NL
+1,UAB,61,Memphis,82,20240302,NL
+1,Alcorn State,55,Prairie View,53,20240302,NL
+1,North Texas,63,Rice,54,20240302,NL
+1,Middle Tennessee,64,Sam Houston,81,20240302,NL
+1,Bethune-Cookman,67,Southern,61,20240302,NL
+1,Southeastern Louisiana,68,Texas A&M-Corpus Christi,80,20240302,NL
+1,Jackson State,70,Texas Southern,80,20240302,NL
+1,UTSA,68,Wichita State,61,20240302,NL
+1,Wyoming,62,Colorado State,70,20240302,NL
+1,Nevada,83,New Mexico,82,20240302,NL
+1,Fresno State,51,Wyoming,62,20240302,NL
+1,Montana State,104,Eastern Washington,108,20240302,NL
+1,Portland,75,Loyola Marymount,63,20240302,NL
+1,San Jose State,50,UNLV,68,20240302,NL
+1,Colorado State,56,San Jose State,68,20240302,NL
+1,San Francisco,62,Santa Clara,69,20240302,NL
+1,Holy Cross,84,Boston University,94,20240302,NL
+1,Rhode Island,77,Dayton,42,20240302,NL
+1,Butler,82,DePaul,63,20240302,NL
+1,Florida State,76,Georgia Tech,85,20240302,NL
+1,American,57,Navy,73,20240302,NL
+1,Villanova,71,Providence,60,20240302,NL
+1,Loyola (MD),55,Army,52,20240302,NL
+1,Austin Peay,71,Bellarmine,76,20240302,NL
+1,Rider,62,Canisius,73,20240302,NL
+1,Stonehill,67,Central Connecticut,79,20240302,NL
+1,Wright State,66,Detroit Mercy,56,20240302,NL
+1,Lipscomb,71,Eastern Kentucky,68,20240302,NL
+1,Miami (OH),52,Eastern Michigan,37,20240302,NL
+1,Winthrop,72,Gardner-Webb,54,20240302,NL
+1,Buffalo,59,Kent State,67,20240302,NL
+1,Albany (NY),46,Maine,63,20240302,NL
+1,Lindenwood,59,Morehead State,72,20240302,NL
+1,Binghamton,65,New Hampshire,56,20240302,NL
+1,Central Michigan,63,Ohio,77,20240302,NL
+1,Richmond,61,St. Bonaventure,46,20240302,NL
+1,LSU,75,Vanderbilt,61,20240302,NL
+1,Toledo,84,Western Michigan,69,20240302,NL
+1,Utah Tech,62,Abilene Christian,74,20240302,NL
+1,Navy,71,American,65,20240302,NL
+1,Tennessee Tech,69,Little Rock,72,20240302,NL
+1,Western Michigan,78,Ball State,76,20240302,NL
+1,New Hampshire,74,Binghamton,87,20240302,NL
+1,Toledo,85,Buffalo,79,20240302,NL
+1,North Alabama,63,Central Arkansas,89,20240302,NL
+1,Presbyterian,49,Charleston Southern,68,20240302,NL
+1,Western Carolina,82,Chattanooga,63,20240302,NL
+1,Hofstra,76,College of Charleston,87,20240302,NL
+1,North Carolina Central,52,Coppin State,44,20240302,NL
+1,UMass,69,Davidson,67,20240302,NL
+1,Norfolk State,65,Delaware State,51,20240302,NL
+1,Mercer,82,Furman,75,20240302,NL
+1,ETSU,59,Furman,67,20240302,NL
+1,Milwaukee,65,Green Bay,61,20240302,NL
+1,Texas A&M-Commerce,78,Houston Christian,63,20240302,NL
+1,Cincinnati,60,Iowa State,76,20240302,NL
+1,George Washington,66,La Salle,72,20240302,NL
+1,Bucknell,56,Lafayette,45,20240302,NL
+1,Saint Francis (PA),24,Le Moyne,56,20240302,NL
+1,Colgate,63,Lehigh,60,20240302,NL
+1,Howard,64,Maryland-Eastern Shore,48,20240302,NL
+1,Nicholls State,76,McNeese State,78,20240302,NL
+1,South Carolina State,29,Morgan State,61,20240302,NL
+1,Iona,56,Niagara,86,20240302,NL
+1,Bryant,38,NJIT,64,20240302,NL
+1,Radford,55,UNC Asheville,54,20240302,NL
+1,Western Carolina,54,UNC Greensboro,61,20240302,NL
+1,South Dakota,66,North Dakota,95,20240302,NL
+1,South Dakota State,78,North Dakota State,61,20240302,NL
+1,Lamar,80,Northwestern State,64,20240302,NL
+1,Charleston Southern,65,Presbyterian,72,20240302,NL
+1,Kennesaw State,81,Queens (NC),50,20240302,NL
+1,UNC Asheville,71,Radford,62,20240302,NL
+1,Merrimack,85,Sacred Heart,89,20240302,NL
+1,North Florida,56,Stetson,59,20240302,NL
+1,Central Connecticut,64,Stonehill,45,20240302,NL
+1,Tennessee State,55,UT-Martin,53,20240302,NL
+1,Oklahoma State,65,Texas,81,20240302,NL
+1,Southeastern Louisiana,73,Texas A&M-Corpus Christi,79,20240302,NL
+1,FDU,59,Wagner,51,20240302,NL
+1,SIU-Edwardsville,56,Western Illinois,84,20240302,NL
+1,Florida International,71,Western Kentucky,68,20240302,NL
+1,Hampton,73,William & Mary,85,20240302,NL
+1,Chattanooga,84,Wofford,67,20240302,NL
+1,Georgetown,66,Xavier,46,20240302,NL
+1,Alabama State,47,Alabama A&M,58,20240302,NL
+1,Cornell,66,Brown,75,20240302,NL
+1,Marquette,74,Butler,52,20240302,NL
+1,IUPUI,66,Cleveland State,75,20240302,NL
+1,St. Thomas,79,Denver,68,20240302,NL
+1,New Orleans,76,Incarnate Word,79,20240302,NL
+1,Youngstown State,64,Purdue Fort Wayne,73,20240302,NL
+1,Central Michigan,73,Kent State,79,20240302,NL
+1,High Point,72,Longwood,74,20240302,NL
+1,Sacred Heart,64,Merrimack,51,20240302,NL
+1,Sam Houston,62,Middle Tennessee,93,20240302,NL
+1,Penn State,70,Minnesota,75,20240302,NL
+1,Oral Roberts,94,Kansas City,56,20240302,NL
+1,Illinois State,62,Missouri State,67,20240302,NL
+1,Lindenwood,49,Morehead State,67,20240302,NL
+1,UIC,52,Northern Iowa,61,20240302,NL
+1,The Citadel,80,Samford,92,20240302,NL
+1,North Dakota State,74,South Dakota State,89,20240302,NL
+1,North Dakota,54,South Dakota,65,20240302,NL
+1,Bradley,54,Southern Illinois,70,20240302,NL
+1,UTSA,77,SMU,73,20240302,NL
+1,Grand Canyon,77,Stephen F. Austin,85,20240302,NL
+1,Southern Utah,63,Tarleton State,69,20240302,NL
+1,Utah Valley,53,UT Arlington,67,20240302,NL
+1,Liberty,80,UTEP,63,20240302,NL
+1,California Baptist,72,Texas-Rio Grande Valley,58,20240302,NL
+1,SMU,73,Tulsa,91,20240302,NL
+1,Columbia,76,Yale,50,20240302,NL
+1,Tennessee Tech,43,Little Rock,81,20240302,NL
+1,Air Force,67,Boise State,66,20240302,NL
+1,North Carolina Central,83,Coppin State,58,20240302,NL
+1,Norfolk State,71,Delaware State,85,20240302,NL
+1,Northeastern,59,Drexel,73,20240302,NL
+1,UNC Greensboro,65,ETSU,66,20240302,NL
+1,Texas A&M-Commerce,98,Houston Christian,85,20240302,NL
+1,St. Peter's,58,Marist,57,20240302,NL
+1,Howard,70,Maryland-Eastern Shore,66,20240302,NL
+1,Eastern Washington,52,Montana State,50,20240302,NL
+1,Idaho,48,Montana,64,20240302,NL
+1,South Carolina State,72,Morgan State,61,20240302,NL
+1,Jacksonville State,60,New Mexico State,51,20240302,NL
+1,Weber State,41,Northern Arizona,73,20240302,NL
+1,Idaho State,51,Northern Colorado,63,20240302,NL
+1,Lamar,82,Northwestern State,77,20240302,NL
+1,Dartmouth,42,Princeton,68,20240302,NL
+1,Le Moyne,74,Saint Francis (PA),58,20240302,NL
+1,Bethune-Cookman,59,Southern,65,20240302,NL
+1,Tennessee State,87,UT-Martin,96,20240302,NL
+1,Jackson State,101,Texas Southern,51,20240302,NL
+1,UT Arlington,78,Utah Valley,65,20240302,NL
+1,UMass-Lowell,62,Vermont,74,20240302,NL
+1,FDU,57,Wagner,54,20240302,NL
+1,USC,82,Washington,75,20240302,NL
+1,Northern Arizona,58,Weber State,85,20240302,NL
+1,SIU-Edwardsville,65,Western Illinois,76,20240302,NL
+1,Mississippi Valley State,57,Arkansas-Pine Bluff,78,20240302,NL
+1,Cal Poly,74,Cal State Bakersfield,56,20240302,NL
+1,Cal State Northridge,66,UC-San Diego,64,20240302,NL
+1,Montana,80,Idaho,57,20240302,NL
+1,UC-Irvine,86,Long Beach State,76,20240302,NL
+1,Army,68,Loyola (MD),69,20240302,NL
+1,Nicholls State,62,McNeese State,83,20240302,NL
+1,Iowa,87,Northwestern,80,20240302,NL
+1,Santa Clara,85,Pacific,77,20240302,NL
+1,Saint Mary's,69,Pepperdine,48,20240302,NL
+1,Sacramento State,51,Portland State,57,20240302,NL
+1,Portland State,61,Sacramento State,73,20240302,NL
+1,San Diego,66,San Francisco,68,20240302,NL
+1,Mount St. Mary's,56,Siena,65,20240302,NL
+1,Wake Forest,76,Virginia Tech,87,20240302,NL
+1,Alabama State,53,Alabama A&M,58,20240302,NL
+1,Pitt,90,Boston College,65,20240302,NL
+1,Northern Kentucky,69,Cleveland State,81,20240302,NL
+1,Western Kentucky,83,Florida International,85,20240302,NL
+1,Texas A&M,70,Georgia,56,20240302,NL
+1,Florida A&M,68,Grambling,75,20240302,NL
+1,New Orleans,87,Incarnate Word,80,20240302,NL
+1,Detroit Mercy,70,Oakland,75,20240302,NL
+1,Alcorn State,73,Prairie View,65,20240302,NL
+1,Southeast Missouri State,59,Southern Indiana,70,20240302,NL
+1,Delaware,56,Stony Brook,79,20240302,NL
+1,Texas Tech,81,West Virginia,70,20240302,NL
+1,Lafayette,50,Bucknell,60,20240302,NL
+1,Cal State Fullerton,78,UCSB,65,20240302,NL
+1,Kansas State,72,Cincinnati,74,20240302,NL
+1,Jacksonville,55,Florida Gulf Coast,80,20240302,NL
+1,Xavier,98,Georgetown,93,20240302,NL
+1,Longwood,58,High Point,61,20240302,NL
+1,Robert Morris,65,Purdue Fort Wayne,83,20240302,NL
+1,UTEP,67,Liberty,51,20240302,NL
+1,Towson,64,UNC Wilmington,75,20240302,NL
+1,Clemson,62,Notre Dame,69,20240302,NL
+1,Columbia,72,Penn,84,20240302,NL
+1,Harvard,67,Penn,69,20240302,NL
+1,Tulane,51,South Florida,53,20240302,NL
+1,Rice,66,Wichita State,87,20240302,NL
+1,Northern Kentucky,88,Wright State,94,20240302,NL
+1,Harvard,60,Yale,80,20240302,NL
+1,New Mexico,79,Boise State,89,20240302,NL
+1,UC-San Diego,79,Cal State Northridge,69,20240302,NL
+1,Texas-Rio Grande Valley,52,California Baptist,88,20240302,NL
+1,Hawaii,76,UC-Riverside,73,20240302,NL
+1,Stephen F. Austin,58,Grand Canyon,80,20240302,NL
+1,Northern Colorado,81,Idaho State,79,20240302,NL
+1,Syracuse,82,Louisville,76,20240302,NL
+1,Green Bay,69,Milwaukee,90,20240302,NL
+1,Ole Miss,84,Missouri,78,20240302,NL
+1,Loyola Marymount,60,Portland,70,20240302,NL
+1,Knox,42,Saint Louis,119,20240302,NL
+1,Southeast Missouri State,70,Southern Indiana,66,20240302,NL
+1,Tarleton State,88,Southern Utah,83,20240302,NL
+1,Denver,58,St. Thomas,83,20240302,NL
+1,TCU,75,BYU,87,20240302,NL
+1,UCSB,70,Cal State Fullerton,79,20240302,NL
+1,Abilene Christian,86,Utah Tech,79,20240302,NL
+1,California,59,Utah,88,20240302,NL
+1,Cal State Bakersfield,68,Cal Poly,56,20240302,NL
+1,Long Beach State,61,UC-Irvine,82,20240302,NL
+1,Pacific,69,San Diego,81,20240302,NL
